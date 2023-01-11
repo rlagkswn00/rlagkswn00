@@ -1,4 +1,4 @@
-# 안녕하세요!🙌 누구에게나 담백한 개발자가 되고싶은 김한주입니다.
+## 안녕하세요!🙌 누구에게나 담백한 개발자가 되고싶은 김한주입니다.
 
 ### 🤝 SNS list
 
@@ -7,19 +7,19 @@
 <a href="[https://leapday.tistory.com/]" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="[https://www.instagram.com/1week_0/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-## 🙋‍♂️About Me
+### 🙋‍♂️About Me
 
 **Now Learning**
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
-📚**Education**
+###📚**Education**
 
 `2018` 건국대학교 컴퓨터공학부 입학
 
 `2023~` 컴퓨터공학부 4학년 재학 중
 
-## 🔥**Activity**
+### 🔥**Activity**
 
 `2022.09 ~`
 
