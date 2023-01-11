@@ -13,7 +13,7 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
-###📚**Education**
+### 📚**Education**
 
 `2018` 건국대학교 컴퓨터공학부 입학
 
