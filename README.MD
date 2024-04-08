@@ -1,49 +1,44 @@
-## 안녕하세요!🙌 나눔의 가치를 아는 개발자 김한주입니다.
+## 안녕하세요!🙌 나눔의 가치를 실현하는 개발자 김한주입니다.
 
-### 🤝 SNS list
-
-📧 hjkim2902@gmail.com
-
+### 🤝 SNS
 <a href="https://leapday.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.instagram.com/1week_0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-### 🙋‍♂️About Me
+📧 hjkim2902@gmail.com
 
-**Now Learning**
+### 🙋 Stacks
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-important?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=#181717"/>
 
-### 📚**Education**
 
-`2018` 건국대학교 컴퓨터공학부 입학
+### 📚**Education & Certificates**
 
-`2023~` 컴퓨터공학부 4학년 재학 중
+`2018~` 건국대학교 컴퓨터공학부 재학
+
+`2023.09.01` 정보처리기사 취득
+
+`2024.04.05` SQLD 취득
 
 ### 🔥**Activity**
 
-`2023.08 ~`
+`2024.03 ~` 건국대 KUIT 3기 Server(Spring) 튜터
 
-건국대 KUIT 2기 Server(Spring) 파트장
+`2023.09 ~` GDSC Konkuk Server Member
 
-`2023.07 ~ 2023.09`
+`2023.08 ~ 2024.02` 건국대 KUIT 2기 Server(Spring) 파트장
 
-KB IT 아카데미 "IT's Your Life" 4기
+`2023.07 ~ 2023.09` KB IT 아카데미 "IT's Your Life" 4기
 
-`2023.02 ~ 2023.08`
+`2023.02 ~ 2023.08` 건국대 KUIT 1기 회장
 
-건국대 KUIT 1기 회장
+`2022.09 ~ 2023.02` UMC 3기 Server 부원, 스터디리더
 
-`2022.09 ~ 2023.02`
-
-건국대 UMC 3기 Server 챌린저
-
-건국대 UMC 3기 Server 스터디리더
-
-`2020.01.13 ~ 2022.07.25`
-
-육군 정보보호병 복무(병장 만기 전역)
+`2020.01 ~ 2022.07` 육군 정보보호병 복무(병장 만기 전역)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlagkswn00)](https://solved.ac/rlagkswn00)
 
 ![](https://github-readme-stats.vercel.app/api?username=rlagkswn00&show_icons=true)
-[![rlagkswn00's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlagkswn00&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rlagkswn00)
