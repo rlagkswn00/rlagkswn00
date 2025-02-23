@@ -1,4 +1,4 @@
-## 안녕하세요!🙌 나눔의 가치를 실현하는 개발자 김한주입니다.
+## 안녕하세요!🙌  Backend 개발자 김한주입니다.
 
 ### 🤝 SNS
 <a href="https://leapday.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
@@ -15,15 +15,19 @@
 
 `2018~` 건국대학교 컴퓨터공학부 재학
 
-`2023.09.01` 정보처리기사 취득
+`2024.09.10` TOECI Speaking IM3 취득
+
+`2024.06.07` ADsP 취득
 
 `2024.04.05` SQLD 취득
 
+`2023.09.01` 정보처리기사 취득
+
 ### 🔥**Activity**
 
-`2024.03 ~` 건국대 KUIT 3기 Server(Spring) 튜터
+`2023.09 ~ 2025.08` GDSC Konkuk Server Member
 
-`2023.09 ~` GDSC Konkuk Server Member
+`2024.03 ~ 2024.08` 건국대 KUIT 3기 Server(Spring) 튜터
 
 `2023.08 ~ 2024.02` 건국대 KUIT 2기 Server(Spring) 파트장
 
@@ -31,7 +35,7 @@
 
 `2023.02 ~ 2023.08` 건국대 KUIT 1기 회장
 
-`2022.09 ~ 2023.02` UMC 3기 Server 부원, 스터디리더
+`2022.09 ~ 2023.02` UMC 3기 Server Member
 
 `2020.01 ~ 2022.07` 육군 정보보호병 복무(병장 만기 전역)
 
