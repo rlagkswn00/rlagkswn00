@@ -23,11 +23,11 @@
 |기간|활동 내용|단체|
 |:-:|---|---|
 |2026.01. ~ ing|Java Coding Track|[SSAFY 15th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)|
-|2025.01. ~ 2025.06.|Full Stack(Spring, React)|[Kakao Tech Bootcamp Pangyo 2nd](https://github.com/100-hours-a-week/17-newsum-be)|
+|2025.01. ~ 2025.06.|Full Stack(Spring, React)|[카카오테크 부트캠프 판교 2기](https://github.com/100-hours-a-week/17-newsum-be)|
 |2023.10. ~ 2025.06|Server Member|[GDG On Campus Konkuk Univ.](https://github.com/gdsc-konkuk)|
-|2023.03. ~ 2024.08.|회장, Server파트장, Server튜터|[Konkuk Kuit](https://github.com/Konkuk-Kuit)|
-|2023.07. ~ 2023.09.|웹 개발(Spring, Bootstrap)|[KB IT Academy](https://github.com/KookChild/KOOKCHILD-backend)|
-|2022.09. ~ 2023.02.|10주 서버 스터디, 서버 프로젝트 수행|[UMC 3rd Server](https://github.com/UMC3rdReligo/ReligoBack)|
+|2023.03. ~ 2024.08.|1기 회장, 2기 Server파트장, 3기 Server튜터|[건국대 IT 동아리 KUIT](https://github.com/Konkuk-Kuit)|
+|2023.07. ~ 2023.09.|웹 개발(Spring, Bootstrap)|[KB IT's Your Life 4기](https://github.com/KookChild/KOOKCHILD-backend)|
+|2022.09. ~ 2023.02.|10주 서버 스터디, 서버 프로젝트 수행|[연합 IT 동아리 UMC](https://github.com/UMC3rdReligo/ReligoBack)|
 |2020.01. ~ 2021.07|정보보안 관제 및 침해대응|5군단 CERT|
 |2018.03. ~ 2025.08|컴퓨터공학부|[건국대학교]([http://imc.sejong.ac.kr/](https://cse.konkuk.ac.kr/cse/9948/subview.do))|
 
