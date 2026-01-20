@@ -50,14 +50,12 @@
 |2025.08.14|우수 인턴|신한은행|신한은행 ICT 인턴십 우수 인턴 선정|
 |2023.10.12|최우수 프로젝트상|멀티캠퍼스|KB IT's Your Life 4기 프로젝트 최우수|
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlagkswn00)](https://solved.ac/rlagkswn00)
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=rlagkswn00&show_icons=true) -->
-
-
 ## 🤝 Contact
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://leapday.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1week_0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bwkim2908@gmail.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlagkswn00)](https://solved.ac/rlagkswn00)
+<!-- 
+![](https://github-readme-stats.vercel.app/api?username=rlagkswn00&show_icons=true) -->
